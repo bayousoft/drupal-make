@@ -117,7 +117,7 @@ projects[webform][subdir] = "contrib"
 
 ; Workbench
 projects[workbench][version] = "3.18"
-projects[webform][subdir] = "contrib"
+projects[workbench][subdir] = "contrib"
 
 ; XML sitemaps to improve spridering.
 projects[xmlsitemap][version] = "2.0-rc1"
