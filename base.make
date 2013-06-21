@@ -79,6 +79,10 @@ projects[module_filter][subdir] = "contrib"
 projects[multiple_node_menu][version] = "1.0-beta1"
 projects[multiple_node_menu][subdir] = "contrib"
 
+; Renders navigation on 404 error pages.
+projects[navigation404][version] = "1.0"
+projects[navigation404][subdir] = "contrib"
+
 ; SEO friendly URLs.
 projects[pathauto][version] = "1.2"
 projects[pathauto][subdir] = "contrib"
