@@ -131,6 +131,10 @@ projects[xmlsitemap][subdir] = "contrib"
 projects[devel][version] = "1.3"
 projects[devel][subdir] = "dev"
 
+; Pre req for Simple Field Formatter
+projects[field_formatter_settings][version] = "1.0"
+projects[field_formatter_settings][subdir] = "contrib"
+
 ;
 ; Third party git repos
 ;
