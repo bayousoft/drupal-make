@@ -55,6 +55,15 @@ projects[entityreference][subdir] = "contrib"
 projects[fast_404][version] = "1.3"
 projects[fast_404][subdir] = "contrib"
 
+; Enables the capture and management of features in Drupal.
+projects[features][version] = "2.0-rc1"
+projects[features][subdir] = "contrib"
+
+
+; Override the default variable values that Drupal core and contributed modules ship with.
+projects[strongarm][version] = "2.0"
+projects[strongarm][subdir] = "contrib"
+
 ; Prevents duplicate URLs.
 projects[globalredirect][version] = "1.5"
 projects[globalredirect][subdir] = "contrib"
