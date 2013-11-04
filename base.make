@@ -45,7 +45,7 @@ projects[metatag][version] = "1.0-beta7"
 
 projects[module_filter][version] = "1.7"
 
-projects[recaptcha][version] = "1.1"
+projects[recaptcha][version] = "1.10"
 
 projects[pathauto][version] = "1.2"
 
