@@ -19,6 +19,8 @@ projects[ds][version] = "2.2"
 
 projects[entity][version] = "1.1"
 
+projects[fences][version] = "1.0"
+
 projects[field_group][version] = "1.1"
 
 projects[flexslider][version] = "2.0-alpha1"
@@ -45,7 +47,7 @@ projects[metatag][version] = "1.0-beta7"
 
 projects[module_filter][version] = "1.7"
 
-projects[recaptcha][version] = "1.10"
+projects[mollom][version] = "2.6"
 
 projects[pathauto][version] = "1.2"
 
@@ -57,9 +59,7 @@ projects[redirect][version] = "1.0-rc1"
 
 projects[search_config][version] = "1.0"
 
-projects[simple_field_formatter][version] = "2.0-beta1"
-
-projects[field_formatter_settings][version] = "1.1"
+projects[simple_field_formatter][version] = "2.0-alpha4"
 
 projects[site_map][version] = "1.0"
 
@@ -71,11 +71,15 @@ projects[simple_gmap][version] = "1.0"
 
 projects[token][version] = "1.5"
 
+projects[twitter_pull][version] = "1.0-rc5"
+
 projects[views][version] = "3.7"
 
 projects[views_infinite_scroll][version] = "1.1"
 
 projects[webform][version] = "3.19"
+
+projects[workbench][version] = "1.2"
 
 projects[wysiwyg][version] = "2.2"
 
@@ -97,10 +101,4 @@ libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEd
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
 
-; Please fill the following out. Type may be one of get, git, bzr or svn,
-; and url is the url of the download.
-libraries[jquery.cycle][download][type] = "get"
-libraries[jquery.cycle][download][url] = "http://malsup.github.io/jquery.cycle.all.js"
-libraries[jquery.cycle][directory_name] = "jquery.cycle"
-libraries[jquery.cycle][type] = "library"
 
