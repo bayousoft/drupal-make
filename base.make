@@ -5,9 +5,14 @@ api = 2
 projects[drupal][version] = "7.22"
 
 ; Modules
+
+projects[addanother][version] = "2.1"
+
 projects[admin][version] = "2.0-beta3"
 
 projects[block_titlelink][version] = "1.3"
+
+projects[bundle_copy][version] = "1.1"
 
 projects[ctools][version] = "1.3"
 
@@ -19,13 +24,19 @@ projects[ds][version] = "2.2"
 
 projects[entity][version] = "1.1"
 
+projects[exclude_node_title][version] = "1.7"
+
 projects[fences][version] = "1.0"
+
+projects[field_collection][version] = "1.0-beta7"
 
 projects[field_group][version] = "1.1"
 
 projects[flexslider][version] = "2.0-alpha1"
 
 projects[google_analytics][version] = "1.3"
+
+projects[html5_tools][version] = "1.2"
 
 projects[imagefield_crop][version] = "1.1"
 
@@ -41,9 +52,11 @@ projects[libraries][version] = "2.1"
 
 projects[link][version] = "1.1"
 
+projects[menu_attributes][version] = "1.0-rc2"
+
 projects[menu_block][version] = "2.3"
 
-projects[metatag][version] = "1.0-beta7"
+projects[metatag][version] = "1.0-beta9"
 
 projects[module_filter][version] = "1.7"
 
@@ -78,6 +91,8 @@ projects[views][version] = "3.7"
 projects[views_infinite_scroll][version] = "1.1"
 
 projects[webform][version] = "3.19"
+
+projects[weight][version] = "2.3"
 
 projects[workbench][version] = "1.2"
 
