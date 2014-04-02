@@ -24,6 +24,12 @@ projects[ds][version] = "2.2"
 
 projects[entity][version] = "1.1"
 
+projects[entityreference][version] = "1.1"
+
+projects[entityreference_view_widget][version] = "2.0-alpha2"
+
+projects[inline_entity_form][version] = "1.5"
+
 projects[exclude_node_title][version] = "1.7"
 
 projects[fences][version] = "1.0"
