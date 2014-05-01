@@ -10,6 +10,8 @@ projects[addanother][version] = "2.1"
 
 projects[admin][version] = "2.0-beta3"
 
+projects[betterlogin][version] = "1.2"
+
 projects[block_titlelink][version] = "1.3"
 
 projects[bundle_copy][version] = "1.1"
