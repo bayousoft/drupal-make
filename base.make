@@ -90,6 +90,8 @@ projects[sharethis][version] = "2.5"
 
 projects[simple_gmap][version] = "1.0"
 
+projects[superfish][version] = "1.9"
+
 projects[token][version] = "1.5"
 
 projects[twitter_pull][version] = "1.0-rc5"
