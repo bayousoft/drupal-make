@@ -100,6 +100,8 @@ projects[views][version] = "3.7"
 
 projects[views_infinite_scroll][version] = "1.1"
 
+projects[visitors][version] = "1.9"
+
 projects[webform][version] = "3.19"
 
 projects[weight][version] = "2.3"
