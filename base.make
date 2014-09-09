@@ -2,7 +2,7 @@
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.28"
+projects[drupal][version] = "7.31"
 
 ; Modules
 
@@ -14,9 +14,9 @@ projects[betterlogin][version] = "1.2"
 
 projects[block_titlelink][version] = "1.3"
 
-projects[bundle_copy][version] = "1.1"
+projects[coffee][version] = "2.2"
 
-projects[ctools][version] = "1.3"
+projects[ctools][version] = "1.4"
 
 projects[date][version] = "2.6"
 
