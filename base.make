@@ -10,6 +10,8 @@ projects[addanother][version] = "2.1"
 
 projects[admin][version] = "2.0-beta3"
 
+projects[adminimal_admin_menu][version] = "1.5"
+
 projects[betterlogin][version] = "1.2"
 
 projects[block_titlelink][version] = "1.3"
@@ -111,7 +113,7 @@ projects[workbench][version] = "1.2"
 projects[wysiwyg][version] = "2.2"
 
 ; Themes
-;projects[skeletontheme][version] = "1.2"
+projects[adminimal_theme][version] = "1.17"
 
 ; Libraries
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
